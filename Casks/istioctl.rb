@@ -1,6 +1,6 @@
 cask "istioctl" do
-  version "1.6.1"
-  sha256 "616cf30294a563b743833369c1435ae27244603d42c15818329f1ead25c0065a"
+  version "1.6.2"
+  sha256 "e9a1912e554ef31308bb78a96ab7c43281c7be6f7892337c21dab462fdf97b3e"
 
   # github.com/istio/istio was verified as official when first introduced to the cask
   url "https://github.com/istio/istio/releases/download/#{version}/istio-#{version}-osx.tar.gz"
